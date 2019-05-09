@@ -1,0 +1,8 @@
+multipler
+
+betrayal
+betrayal passives that benefits betraying other players
+chest reward - X item spawn on screen, player must click X amount of time to get the item - it gets reduces if clicked by another player
+golden/warth cookies - it will only be given to only 1 player
+
+multi questing - quests is completed reguardless 

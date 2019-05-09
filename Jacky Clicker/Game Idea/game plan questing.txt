@@ -1,0 +1,6 @@
+questing
+
+player/players in that realm gains one quest per X seconds/minutes
+quest gives prestige lvl (very small)
+
+quest gives global gold/exp

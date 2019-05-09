@@ -1,0 +1,11 @@
+gold 
+
+gold loss:
+gold - upgrade items
+gold - buy exp
+gold - buy buffs
+gold - dying
+
+gold gain:
+gold - quest 
+gold - slaying enemies

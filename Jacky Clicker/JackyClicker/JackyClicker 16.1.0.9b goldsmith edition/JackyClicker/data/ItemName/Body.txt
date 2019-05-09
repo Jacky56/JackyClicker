@@ -1,0 +1,11 @@
+Batteplate 
+Tunic 
+Vest 
+Chestpiece 
+Greatplate 
+Breastplate 
+Cuirass 
+Chainmail 
+Chestguard 
+Garments 
+Raiment 

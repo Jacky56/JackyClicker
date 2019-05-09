@@ -1,0 +1,7 @@
+game play
+ascension, player can change it's play style which can be rewarded greatly if the user likes that play style
+
+charge up punch (one punch man)(bvp)(active[*]) - player hold down mouse to strength punch
+tap to rythm (kungfu master)(mvp + bvp)(active[**]) - player is rewarded if combo properly
+tanker(active[]) - can bloack and parry attacks
+abit more active build(active[*]) - spawn godlen cookie like things that give small benefits

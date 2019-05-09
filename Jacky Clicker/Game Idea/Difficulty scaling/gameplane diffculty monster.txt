@@ -1,0 +1,17 @@
+difficulty monster
+
+in a 'Dungeon' party starts at 0 miles, goes up to 1000 miles
+
+each mile, monster gets harder.
+
+mile could get increased by:
+killing monsters
+per second
+
+
+miles will get reseted if switched to another area:
+eg:
+tavern
+another dungeon area
+
+if pass a specifc mile, player can start from that mile at a zeny cost

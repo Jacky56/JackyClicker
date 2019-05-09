@@ -1,0 +1,5 @@
+realm/server scaling
+
+the realm/server is scaled by how many prestige points is given to the realm
+
+more prestige points, more harder, more rewards

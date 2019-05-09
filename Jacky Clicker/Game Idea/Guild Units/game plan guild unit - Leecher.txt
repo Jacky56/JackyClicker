@@ -1,0 +1,8 @@
+leacher 
+bought from guild 
+
+can have upto lvl 50 leacher
+
+each lvl of leacher increase exp leach by 1%
+
+the leacher can be killed to give 100% of the leached exp and X% more ?

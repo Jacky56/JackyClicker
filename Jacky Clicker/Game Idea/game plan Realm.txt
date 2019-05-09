@@ -1,0 +1,11 @@
+realm game plan 
+
+player/players can 'rebirth' to a new realm 
+player/players must rebirth together to play in the same realm
+
+player can rebirth any time 
+
+player/players must stay in rebirth phase if they want to start a new realm with a friend
+
+rebirth have a X minute cooldown
+
